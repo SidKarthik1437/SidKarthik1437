@@ -2,21 +2,9 @@
 
 - 🚀 I'm an engineering student who has fallen in love with technology and programming. 
 - 🔭 I'm currently exploring web development using react
-- 🌱 Learning about Artificial Intelligence using python and django framework
+- 🌱 Learning about Artificial Intelligence, django framework and IOT applications using Python
 - 👯 I am looking to collaborate on any exciting react project
 - 📫 How to reach me: 
 - 📷 Instagram: https://www.instagram.com/sid_karthik27/
 - 🔗 LinkedIn: https://www.linkedin.com/in/siddharth-karthikeyan-6613291b7/
-
-
-
-
--  I’m currently working on ...
--  I’m currently learning the 
--  I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: "I love to explore anything related to technology"
